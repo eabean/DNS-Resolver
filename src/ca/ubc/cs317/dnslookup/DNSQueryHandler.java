@@ -8,7 +8,6 @@ import java.util.Random;
 import java.util.Set;
 import java.nio.charset.StandardCharsets;
 import java.util.Arrays;
-import java.util.HashSet;
 
 
 public class DNSQueryHandler {
