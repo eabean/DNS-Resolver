@@ -15,6 +15,6 @@ and returns its IPV4 or IPV6 address.
 | Command | Description |
 | --- | --- |
 | `server <SERVERNAME>` | Changes the starting DNS server. |
-| `trace on | off` | Toggles verbose tracing. |
+| `trace on` | Toggles verbose tracing. |
 | `lookup <HOSTNAME> [type]` | Looks up the provided hostname and allows you to specify the record type. For example, `lookup google.ca AAAA` |
 | `dump` | Prints all currently cached host names and records.|
